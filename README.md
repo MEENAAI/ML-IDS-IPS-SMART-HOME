@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hey,%20I'm%20[Your%20Name]%20👋&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20•%20Problem%20Solver%20•%20Open%20Source%20Enthusiast&descAlignY=56&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hey,%20I'm%20 MEENA %20👋&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20•%20Problem%20Solver%20•%20Open%20Source%20Enthusiast&descAlignY=56&descSize=16" width="100%"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=600&lines=Building+things+for+the+web+%F0%9F%9A%80;Full+Stack+Developer+%F0%9F%92%BB;Always+learning%2C+always+building+%F0%9F%94%A5;Open+to+cool+collaborations+%E2%9C%A8)](https://git.io/typing-svg)
 
@@ -12,14 +12,14 @@
 
 ```typescript
 const me = {
-  name:        "[Your Name]",
+  name:        "Meena K",
   role:        "Full Stack Developer",
-  location:    "[Your City, Country]",
+  location:    "Chennai, India",
   bio:         "[A short, punchy line about who you are and what drives you]",
-  currentWork: "[What you're building right now]",
-  learning:    ["[Tech 1]", "[Tech 2]"],
-  funFact:     "[Something interesting about you]",
-  contact:     "[your@email.com]",
+  currentWork: "Intrusion Detection and Prevention System ",
+  learning:    ["Streamlit", "React"],
+  funFact:     "I do random stuffs",
+  contact:     "[meena552627@gmail.com]",
 };
 ```
 
@@ -74,7 +74,7 @@ const me = {
 <div align="center">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MEENAAI&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 
 </div>
 
