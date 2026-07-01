@@ -92,9 +92,7 @@ const me = {
 
 | Project | Description | Stack | Links |
 |--------|-------------|-------|-------|
-| 🔥 **[Project Name]** | [What it does in one sentence] | `React` `Node.js` `PostgreSQL` | [Live](https://your-link.com) · [Code](https://github.com/YOUR_USERNAME/repo) |
-| 🧠 **[Project Name]** | [What it does in one sentence] | `Next.js` `Python` `Redis` | [Live](https://your-link.com) · [Code](https://github.com/YOUR_USERNAME/repo) |
-| ⚡ **[Project Name]** | [What it does in one sentence] | `TypeScript` `FastAPI` `MongoDB` | [Live](https://your-link.com) · [Code](https://github.com/YOUR_USERNAME/repo) |
+| 🔥 **IDS-IPS** | Detects and Prevents Intrusion in Home Network | `Tensorflow` `Keras` `Python` | [Live](https://meena-og-ids-ips-api.hf.space) · [Code](https://huggingface.co/Meena-OG/IDS-IPS/tree/main) |
 
 </div>
 
@@ -114,7 +112,7 @@ const me = {
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MEENAAI)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto: meena552627@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:meena552627@gmail.com)
 
 </div>
 
@@ -126,6 +124,6 @@ const me = {
 
 ![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=6AD3F7&style=flat-square&label=Profile+Views)
 
-*"[Your favourite quote or personal motto]"*
+*" Code till the coffee arrives"*
 
 </div>
