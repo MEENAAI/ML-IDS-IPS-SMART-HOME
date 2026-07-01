@@ -92,7 +92,7 @@ const me = {
 
 | Project | Description | Stack | Links |
 |--------|-------------|-------|-------|
-| 🔥 **IDS-IPS** | Detects and Prevents Intrusion in Home Network | `Tensorflow` `Keras` `Python` | [Live](https://meena-og-ids-ips-api.hf.space) · [Code](https://huggingface.co/Meena-OG/IDS-IPS/tree/main) |
+| 🔥 **IDS-IPS** | Detects and Prevents Intrusion in Home Network | `Tensorflow` `Keras` `Python` | [Live](https://ids-ips.pages.dev/) · [Code](https://huggingface.co/Meena-OG/IDS-IPS/tree/main) |
 
 </div>
 
